@@ -1,11 +1,11 @@
 public class Author {
     String nameAuthor;
 
-    public Author(String nameAuthor) {
+    Author(String nameAuthor) {
         this.nameAuthor = nameAuthor;
     }
 
-    public String getNameAuthor() {
+   String getNameAuthor() {
         return this.nameAuthor;
     }
 }
